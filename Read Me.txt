@@ -1,0 +1,2 @@
+- The Reporting_api.py is an example of fetching the Landing Page reports from the Google analytics account referenced. 
+- Save the client_authentication.json file in the same directory as the python script before running the script.
